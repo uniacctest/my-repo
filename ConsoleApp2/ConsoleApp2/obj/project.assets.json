@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio repos\\ConsoleApp2\\ConsoleApp2\\praktich2.csproj",
+      "projectUniqueName": "C:\\Users\\andru\\Documents\\GitHub\\my-repo\\ConsoleApp2\\ConsoleApp2\\praktich2.csproj",
       "projectName": "praktich2",
-      "projectPath": "D:\\visual studio repos\\ConsoleApp2\\ConsoleApp2\\praktich2.csproj",
+      "projectPath": "C:\\Users\\andru\\Documents\\GitHub\\my-repo\\ConsoleApp2\\ConsoleApp2\\praktich2.csproj",
       "packagesPath": "C:\\Users\\andru\\.nuget\\packages\\",
-      "outputPath": "D:\\visual studio repos\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\andru\\Documents\\GitHub\\my-repo\\ConsoleApp2\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\apps\\prog\\visual studio shared components\\NuGetPackages"
