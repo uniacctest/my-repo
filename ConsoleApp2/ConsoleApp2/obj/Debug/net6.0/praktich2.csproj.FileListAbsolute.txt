@@ -1,0 +1,15 @@
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\praktich2.exe
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\praktich2.deps.json
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\praktich2.runtimeconfig.json
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\praktich2.dll
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\praktich2.pdb
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.csproj.AssemblyReference.cache
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.AssemblyInfoInputs.cache
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.AssemblyInfo.cs
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.csproj.CoreCompileInputs.cache
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.dll
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\praktich2.dll
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.pdb
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\praktich2.genruntimeconfig.cache
+D:\visual studio repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\praktich2.dll
